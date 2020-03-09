@@ -1,0 +1,71 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:2:1-24:12
+INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:3:5-37
+		INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+		INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+	android:versionName
+		INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:2:1-24:12
+		INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:2:1-24:12
+		INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+	xmlns:android
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:2:11-69
+application
+ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:5:5-22:19
+	android:label
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:10:9-41
+	android:appCategory
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:7:9-45
+	android:allowBackup
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:11:9-40
+	android:isGame
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:8:9-30
+activity#com.rodrigo.flappybird.AndroidLauncher
+ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:15:13-49
+	android:label
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:14:13-45
+	android:configChanges
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:16:13-107
+	android:name
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:13:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:17:13-20:29
+action#android.intent.action.MAIN
+ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+		INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+		ADDED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml
+		INJECTED from /mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/AndroidManifest.xml

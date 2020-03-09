@@ -1,0 +1,4 @@
+#Thu Feb 27 00:16:18 BRT 2020
+base.0=/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/build/intermediates/res/merged/debug/drawable-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/res/drawable-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/build/intermediates/res/merged/debug/drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/res/drawable-anydpi-v26/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/res/drawable-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

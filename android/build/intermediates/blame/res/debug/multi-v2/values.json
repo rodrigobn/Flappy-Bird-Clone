@@ -1,0 +1,55 @@
+{
+    "logs": [
+        {
+            "outputFile": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "160",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "618"
+                    }
+                },
+                {
+                    "source": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/res/values/color.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                },
+                {
+                    "source": "/mnt/f00c1f4c-3a7d-443a-a29f-c84d960bb524/jogos/FlappyBird/android/res/values/strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "48",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "111",
+                        "endColumns": "48",
+                        "endOffsets": "155"
+                    }
+                }
+            ]
+        }
+    ]
+}
